@@ -16,8 +16,8 @@
   <img align="center" alt="pg-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="pg-Python" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
   <img align="center" alt="pg-Kotlin" height="25" width="25" src="https://avatars.githubusercontent.com/u/1446536?s=200&v=4">
-  <img align="center" alt="pg-Bash" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
   <img align="center" alt="pg-Android" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/android-4.svg">
+  <img align="center" alt="pg-Bash" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
   
   <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/WiM5K1e9MtEic/source.gif">
 
