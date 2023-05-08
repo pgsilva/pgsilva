@@ -4,7 +4,7 @@
 
 #### May The Force Be With You 
 
-I randomly write something about programming and curiosities, find me at <a href="https://dev.to/mrmorales" target="_blank">dev.to/mrmorales</a>.<br>
+I randomly write something about programming and curiosities, find me at <a href="https://dev.to/mrmorales" target="_blank">dev.to/mrmorales</a> to tutorials<br> and <a href="https://medium.com/@1mrmorales" target="_blank">https://medium.com/@1mrmorales</a> to reviews and opinions.<br>
 <hr>
 
 
